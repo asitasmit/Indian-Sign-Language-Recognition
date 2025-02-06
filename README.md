@@ -64,7 +64,7 @@ This project focuses on recognizing Indian Sign Language (ISL) gestures using vi
 - Develop a mobile application for on-the-go recognition.
 
 ## Contributors
-- Your Name (@yourgithub)
+- Shadab Jamadar (@UnbeatableBann)
 
 ## License
 This project is licensed under the MIT License.
